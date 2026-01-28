@@ -28,7 +28,7 @@ latest_posts:
 
 ### about me
 
-I am a **Clinical Data Analyst** and **Biology Specialist in Oncology** at the Hospital das Clínicas of the Faculty of Medicine of the University of São Paulo (HCFMUSP) at the Cancer Institute of the State of São Paulo (ICESP).
+Hello! I am a **Clinical Data Analyst** and **Biology Specialist in Oncology** at the Hospital das Clínicas of the Faculty of Medicine of the University of São Paulo (HCFMUSP) at the Cancer Institute of the State of São Paulo (ICESP).
 
 Currently, I am a **Master's student in Oncology** at the Faculty of Medicine of the University of São Paulo (FMUSP), with expected completion in June 2026. My research focuses on bioinformatics methodologies for exploratory analysis of new biomarkers in breast cancer, specifically evaluating transposable elements as biomarkers.
 
